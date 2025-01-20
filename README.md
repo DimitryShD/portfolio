@@ -2,7 +2,7 @@
 
 My name is Dima
 
-I'm DataEngineer in Sber
+I'm Data Engineer in Sber
 
 It's my foto
 
